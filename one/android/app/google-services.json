@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906501400039",
+    "project_id": "oucan8-60810",
+    "storage_bucket": "oucan8-60810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906501400039:android:53cedd84e79f9d4a1d8942",
+        "android_client_info": {
+          "package_name": "com.example.one"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqZ-7ZEOZb2ke866VlharsDor4RHbrENw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
